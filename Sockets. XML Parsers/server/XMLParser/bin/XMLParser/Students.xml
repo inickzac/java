@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Students>
+  <Student Id="1">
+    <Course>1</Course>
+    <Surname>Иванов</Surname>    
+    <Name>Иван</Name>
+    <Faculty>ПОИТ</Faculty>
+  </Student>
+ <Student Id="2">
+    <Course>1</Course>
+    <Surname>Петров</Surname>    
+    <Name>Сергей</Name>
+    <Faculty>ПОИТ</Faculty>
+  </Student>
+<UpdateDate>"2019-10-10"</UpdateDate>
+</Students>
